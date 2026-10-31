@@ -18,7 +18,7 @@ An independent lab in Austin, Texas: one person, Kurtis Welch, and a fleet of ag
 
 ### AI and machine learning
 
-- **[onemodel](https://recursiveai.org/onemodel/)** (preview, in progress) — A neural-network runtime in pure C#: ONNX models or its own format on SIMD CPU kernels, with no native binaries, and an exact mode that gives the same bits on every platform. [Repo](https://github.com/recursive-ai-oss/onemodel-csharp) · [NuGet](https://www.nuget.org/packages/RecursiveAI.OneModel)
+- **[onemodel](https://recursiveai.org/onemodel/)** — A neural-network runtime and trainer in pure C#: ONNX models or its own format on SIMD CPU kernels, with no native binaries, and an exact mode that gives the same bits on every platform. [Repo](https://github.com/recursive-ai-oss/onemodel-csharp) · [NuGet](https://www.nuget.org/packages/RecursiveAI.OneModel) · [Training](https://www.nuget.org/packages/RecursiveAI.OneModel.Training)
 - **[oneocr](https://recursiveai.org/oneocr/)** — Local OCR and document understanding in pure C#, with small models of its own: a page model with boxes and calibrated confidences, invoices and receipts as fields, PDF pages, and optional LLM vision checked against the page. [Repo](https://github.com/recursive-ai-oss/oneocr-csharp) · [NuGet](https://www.nuget.org/packages/RecursiveAI.OneOcr)
 
 ### Graphics and sound
