@@ -29,6 +29,7 @@ An independent lab in Austin, Texas: one person, Kurtis Welch, and a fleet of ag
 - **[onefont](https://recursiveai.org/onefont/)** — Load TrueType and OpenType fonts and shape text in complex scripts, with bidi, line breaking and fallback. [Repo](https://github.com/recursive-ai-oss/onefont-csharp) · [NuGet](https://www.nuget.org/packages/RecursiveAI.OneFont)
 - **[oneshader](https://recursiveai.org/oneshader/)** — HLSL in; SPIR-V, Metal Shading Language and WGSL out, with reflection, compiled during `dotnet build`. [Repo](https://github.com/recursive-ai-oss/oneshader-csharp) · [NuGet](https://www.nuget.org/packages/RecursiveAI.OneShader)
 - **[oneaudio](https://recursiveai.org/oneaudio/)** — Decode, encode, resample, mix and analyze audio, plus playback and recording. Built first for game audio. [Repo](https://github.com/recursive-ai-oss/oneaudio-csharp) · [NuGet](https://www.nuget.org/packages/RecursiveAI.OneAudio)
+- **[onemedia](https://recursiveai.org/onemedia/)** (preview) — Read media containers in pure C#: MP4, MOV, 3GP, fragmented MP4, Matroska and WebM tracks, packets, codec headers and tags, plus capture time, place, device and rotation with their sources. It decodes nothing; audio tracks go to oneaudio. [Repo](https://github.com/recursive-ai-oss/onemedia-csharp) · [NuGet](https://www.nuget.org/packages/RecursiveAI.OneMedia) · [Audio](https://www.nuget.org/packages/RecursiveAI.OneMedia.Audio) · [Tool](https://www.nuget.org/packages/RecursiveAI.OneMedia.Tool)
 
 ### Games and simulation
 
